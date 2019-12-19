@@ -1,2 +1,3 @@
 # react-virtual-scroll
-react虚拟滚动的实现（对大量dom节点的更新进行优化）
+react虚拟滚动的实现
+在线预览https://codesandbox.io/s/cannon-threejs-in-react-three-fiber-yvjf1
